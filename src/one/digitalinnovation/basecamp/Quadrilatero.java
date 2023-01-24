@@ -1,6 +1,7 @@
 package one.digitalinnovation.basecamp;
 
 /**
+execicio resolvido por Thiago-Hassan
  * Classe de exemplo para o exercício da Aula 2 de Métodos.
  */
 public class Quadrilatero {
